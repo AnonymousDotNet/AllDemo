@@ -1,0 +1,13 @@
+D:\计算机文档\Visual Studio 2015\Algorithm\Algorithm\bin\Debug\Algorithm.exe.config
+D:\计算机文档\Visual Studio 2015\Algorithm\Algorithm\bin\Debug\Algorithm.exe
+D:\计算机文档\Visual Studio 2015\Algorithm\Algorithm\bin\Debug\Algorithm.pdb
+D:\计算机文档\Visual Studio 2015\Algorithm\Algorithm\obj\Debug\Algorithm.exe
+D:\计算机文档\Visual Studio 2015\Algorithm\Algorithm\obj\Debug\Algorithm.pdb
+D:\计算机文档\Visual Studio 2015\Algorithm\Algorithm\obj\Debug\Algorithm.csprojResolveAssemblyReference.cache
+D:\计算机文档\Visual Studio 2015\Algorithm\Algorithm\bin\Debug\BasicFormatsForCore.dll
+D:\计算机文档\Visual Studio 2015\Algorithm\Algorithm\bin\Debug\BCMakeCert.dll
+D:\计算机文档\Visual Studio 2015\Algorithm\Algorithm\bin\Debug\CertMaker.dll
+D:\计算机文档\Visual Studio 2015\Algorithm\Algorithm\bin\Debug\FiddlerCore4.dll
+D:\计算机文档\Visual Studio 2015\Algorithm\Algorithm\bin\Debug\FiddlerCore4.xml
+D:\计算机文档\Visual Studio 2015\Algorithm\Algorithm\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\计算机文档\Visual Studio 2015\Algorithm\Algorithm\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
